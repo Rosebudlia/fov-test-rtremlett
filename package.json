@@ -4,7 +4,7 @@
   "description": "code test for Future of Voice by Rose Tremlett",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/n/a/issues"
   },
-  "homepage": "https://github.com/n/a#readme"
+  "homepage": "https://github.com/n/a#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
 }
