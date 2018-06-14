@@ -1,0 +1,19 @@
+{
+  "name": "futureofvoice",
+  "version": "1.0.0",
+  "description": "code test for Future of Voice by Rose Tremlett",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "Rose Tremlett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
