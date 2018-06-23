@@ -4,7 +4,7 @@
   "description": "code test for Future of Voice by Rose Tremlett",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/n/a#readme",
   "devDependencies": {
-    "jasmine": "^3.1.0"
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
