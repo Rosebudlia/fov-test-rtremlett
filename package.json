@@ -2,9 +2,10 @@
   "name": "futureofvoice",
   "version": "1.0.0",
   "description": "code test for Future of Voice by Rose Tremlett",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/n/a/issues"
   },
-  "homepage": "https://github.com/n/a#readme",
+  "homepage": "",
   "devDependencies": {
     "mocha": "^5.2.0"
   },
